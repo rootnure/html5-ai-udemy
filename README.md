@@ -21,10 +21,10 @@
 
 ## Chapter 3: List, Link, Image, frames, Media
 
-- List --> ordered list, unordered list, discription list
+- List --> ordered list, unordered list, description list
 - Link --> use anchor tag <a></a> to add link
 - Image (Use https://postimg.cc website to host image)
-- frames
+- frames (iframes to run another website inside a website)
 - Media - audio, video
 
 ## Chapter 4: Table, Form
