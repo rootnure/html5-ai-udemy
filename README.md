@@ -34,3 +34,6 @@
 - Form API (formspree.io) to send form submission data to given email address
 
 ## Chapter 5: Web Accessibility
+
+- inspect --> lighthouse --> accessibility
+- semantic (meaningful) tag vs non-semantic
