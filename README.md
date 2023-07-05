@@ -39,3 +39,8 @@
 - semantic (meaningful) tag vs non-semantic
     - Semantic --> header, nav, footer, section, main
     - Non-Semantic --> div, span
+- for img tag, make sure to use alt attribute
+- for link (a), make it describable
+- for form, make sure label is included and connected via 'for' attribute
+- add role if a tag is acting like another tag i.e. if div act like button then add an attribute role="button" for better understanding
+- add area-label for better understanding any tag for web-site reading tool
