@@ -37,3 +37,5 @@
 
 - inspect --> lighthouse --> accessibility
 - semantic (meaningful) tag vs non-semantic
+    - Semantic --> header, nav, footer, section, main
+    - Non-Semantic --> div, span
